@@ -1,0 +1,108 @@
+{
+  "prefix": "c!",
+  
+  "welcomeRoomId": "1236414743896653824",
+  
+  "rankbanner": "rank2.png",
+  
+  "suggestionschannel": "1237562633692119191",
+  "suggestionsreport": "1237562633692119191",
+  "accshinsug": "1237562633692119191",
+  
+  "welcomeLogChannelId": "1237562633692119191",
+  "ruleschannelid": "1026875367740407929",
+
+  "logChannelId": "1237562633692119191",
+  "TicketReportChannelId": "1237562633692119191",
+  "ServerReportChannelId": "1237562633692119191",
+  "TicketSaveChannelId": "1237562633692119191",
+  "levelUpChannelId": "1236404936460472420",
+  
+  "avatar_id": "1247899736783192137",
+  "bot_id": "1233546878235181076",
+  "channel_info_id": "1244237374821499000",
+  "clear_id": "1233546918626332755",
+  "edit_message_id": "1244236366124945408",
+  "emoji_list_id": "1244237120680230992",
+  "member_list_id": "1244237120680230993",
+  "message_info_id": "1244247505286336543",
+  "ping_id": "1233547629334495324",
+  "role_info_id": "1244242819485532160",
+  "role_list_id": "1244237120680230994",
+  "say_id": "1244236258482589726",
+  "server_banner_id": "1249104256716505159",
+  "server_info_id": "1244236951754899458",
+  "tax_id": "1233568305210458143",
+  "test_welcome_id": "1244236142585450528",
+  "user_banner_idd": "1244236863372525619",
+  "user_info_id": "1244236863372525620",
+  
+    "categoryIDs": {
+    "ticket_1": "1237550099043717162",
+    "ticket_2": "1237550099043717162",
+    "ticket_3": "1237550099043717162",
+    "ticket_4": "1237550099043717162",
+    "ticket_5": "1237550099043717162",
+    "ticket_6": "1237550099043717162",
+    "ticket_7": "1237550099043717162",
+    "ticket_8": "1237550099043717162",
+    "ticket_9": "1237550099043717162",
+    "ticket_10": "1237550099043717162",
+    "ticket_11": "1237550099043717162",
+    "ticket_12": "1237550099043717162"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "فريق التذاكر 🎟️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392621604343869/1.png?ex=668f2799&is=668dd619&hm=2441b33d7721aa353b9292f65bb216e0f9d34451f710cdc5f94784426999261a&",
+      "value": "ticket_1",
+      "rolesupport": "<@&1237546713246601287>",
+      "roleticketid": [
+        "1237546713246601287"
+      ],
+      "emoji": "🎟️"
+    },
+    {
+      "label": "التقديم علي الإدارة 📋",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392649479684138/2.png?ex=668f27a0&is=668dd620&hm=b55fd9638cba3f0a81cc26117c3dd8bc3544ed2462f2a4e37a7866fdb651b3a8&",
+      "value": "ticket_2",
+      "rolesupport": "<@&1237546713246601287>",
+      "roleticketid": [
+        "1237546713246601287"
+      ],
+      "emoji": "📋"
+    },
+    {
+      "label": "شحن روبوكس 🔷",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392662075441273/3.png?ex=668f27a3&is=668dd623&hm=78378c808e81b2a8c3431c5a490b6eddfaa30e855403c16a216ac2cf93eb97a6&",
+      "value": "ticket_3",
+      "rolesupport": "<@&1237546713246601287>",
+      "roleticketid": [
+        "1237546713246601287"
+      ],
+      "emoji": "<:ROBUX:1232383076823208008>"
+    },
+    {
+      "label": "الشكاوى ⚠️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392674611953724/4.png?ex=668f27a6&is=668dd626&hm=4a03dc642b4f9db50c8ba8cac9a4c93bab3c9feab3ed176495dc23fadea49906&",
+      "value": "ticket_4",
+      "rolesupport": "<@&1237546713246601287>",
+      "roleticketid": [
+        "1237546713246601287"
+      ],
+      "emoji": "⚠️"
+    },
+    {
+      "label": "فريق الدعم 🛠️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392698754633818/6.png?ex=668f27ac&is=668dd62c&hm=f6d4110d2c2d870a48f05506dbe9186ed73e5b3ec1164c099d26417ac59935aa&",
+      "value": "ticket_6",
+      "rolesupport": "<@&1237546713246601287>",
+      "roleticketid": [
+        "1237546713246601287"
+      ],
+      "emoji": "🛠️"
+    }
+  ]
+}
+
+
